@@ -1,0 +1,8 @@
+[package]
+name = "utils_eml_to_mbox"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mbox = "0.7.1" # You might need to find an appropriate crate or implement this manually
+walkdir = "2.3.1"
